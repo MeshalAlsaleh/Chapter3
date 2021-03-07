@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chapter 3</string>
+    <string name="txtTitle">Ticket Price</string>
+    <string name="txtTickets">Num of Tickets</string>
+    <string name="Prompt">Select group</string>
+    <string name="desc">Concert Image</string>
+    <string name="btnCost">Find the cost</string>
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+</resources>
